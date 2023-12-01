@@ -1036,6 +1036,7 @@ footer {
         font-style: normal;
         font-weight: 700;
         line-height: 95.3%;
+        padding: 50px 17px;
         font-variant-numeric: lining-nums tabular-nums;
     }
     .texte >p{
@@ -1043,6 +1044,7 @@ footer {
         height: 67px;
         padding: 0px 33px;
         flex-shrink: 0;
+        margin: 0 20px;
     }
     .texte p> a{
         font-size: 18px;
